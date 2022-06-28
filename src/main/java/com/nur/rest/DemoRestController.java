@@ -8,7 +8,7 @@ public class DemoRestController {
 	
 	@GetMapping("/greet")
 	public String greet() {
-		return "Welcome to NIELIT Guwahati";
+		return "Welcome to NIELIT Guwahati City Centre";
 	}
 
 }
