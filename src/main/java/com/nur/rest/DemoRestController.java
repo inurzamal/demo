@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoRestController {
 	
-	@GetMapping("/greet")
-	public String greet() {
+	@GetMapping("/")
+	public String welcome() {
 		return "Welcome to NIELIT Guwahati City Centre";
 	}
 

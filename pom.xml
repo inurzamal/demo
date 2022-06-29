@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>sb-hello-app</finalName>
 	</build>
 
 </project>
